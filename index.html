@@ -1,20 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>DANIEL ADEDIRAN, A GENOMICS SCIENTIST</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-<nav>
-   
-<div >
-    <h1>Hi there, I'm Daniel Adediran!</h1>
-    <p> <a href="/about">Read more about my life...</a></p>
-</div>
-<footer>
-<ul>
- <li><a href="adedirandanieladewoleo4@gmail.com">email</a></li>
- <li><a href="https://github.com/Dexwel">Github</a></li>
-</ul>
-</footer>
+    <div class="profile">
+        <img src="path_to_your_image.jpg" alt="Your Name">
+        <h1> Daniel Adediran </h1>
+        <p> Aspiring Bioinformatics Scientist </p>
+    </div>
+
+    <div id="cv" class="section">
+        <h2>Curriculum Vitae</h2>
+        <p>Click below to view my CV.</p>
+        <a href="Daniel_Adediran_CV.pdf" target="_blank"><button>View CV</button></a>
+    </div>
+
+    <div id="publications" class="section">
+        <h2>Publications</h2>
+        <p>Click below to view my publications.</p>
+        <a href="your_orcid_link" target="_blank"><button>View Publications</button></a>
+    </div>
+
+    <div id="projects" class="section">
+        <h2>Projects</h2>
+        <p>Click below to view my projects.</p>
+        <button onclick="showProjects()">View Projects</button>
+        <div id="projectsContent" style="display: none;">
+            <!-- Insert your projects here -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
+
