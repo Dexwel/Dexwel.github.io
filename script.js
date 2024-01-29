@@ -1,13 +1,13 @@
 // This is a simple script.js file for a personal website
 
 // Function to show CV
-function showCV() {
+function CV() {
     var cvContent = document.getElementById('cvContent');
     cvContent.style.display = 'block';
 }
 
 // Function to show Publications
-function showPublications() {
+function Publications() {
     var publicationsContent = document.getElementById('publicationsContent');
     publicationsContent.style.display = 'block';
 }

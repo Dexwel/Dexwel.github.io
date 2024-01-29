@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://production-embark.s3.us-east-1.amazonaws.com/application-uploads/507c1206-2b16-4a72-b94c-b280cfe023b4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAVLG3URFXDSUUDGHO%2F20231120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231120T221818Z&X-Amz-Expires=3600&X-Amz-Signature=239fc39634e4222637bd5395631ffafee133099bf23b8fc9b57aec2bcebc9f12&X-Amz-SignedHeaders=host&x-id=GetObject
-HostUrl=https://production-embark.s3.us-east-1.amazonaws.com/application-uploads/507c1206-2b16-4a72-b94c-b280cfe023b4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAVLG3URFXDSUUDGHO%2F20231120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231120T221818Z&X-Amz-Expires=3600&X-Amz-Signature=239fc39634e4222637bd5395631ffafee133099bf23b8fc9b57aec2bcebc9f12&X-Amz-SignedHeaders=host&x-id=GetObject
